@@ -57,7 +57,7 @@ Key steps in the process:
 
 - Python
 - Pandas & NumPy – for data manipulation
-- Seaborn & Matplotlib – for data visualization
+- Matplotlib – for data visualization
 - Scikit-learn – for regression modeling, evaluation, and train-test splitting
 - Random Forest & Linear Regression – core predictive models
 - Jupyter Notebook – for running and documenting the project
