@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Forecasting
+# E-Commerce Sales Forecasting
 
 This project focuses on predicting how much a customer will spend on a single transaction in an e-commerce setting. Using features like product category, quantity, and payment method, I built machine learning models to estimate total sales per order.
 
@@ -6,7 +6,7 @@ The goal was to better understand which factors influence transaction value and 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset was sourced from Kaggle:  
 [E-Commerce Sales Data](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025/data)
@@ -22,7 +22,7 @@ The original file (`amazon_sales.csv`) was renamed to `ecommerce_sales_data.csv`
 ---
 
 
-## 🧪 Methodology
+## Methodology
 
 Key steps in the process:
 
@@ -41,7 +41,7 @@ Key steps in the process:
 
 ---
 
-## 📊 Results
+## Results
 
 - **Best Model:** Random Forest
 - **R² Score:** ~0.93
@@ -53,7 +53,7 @@ Key steps in the process:
     
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas & NumPy – for data manipulation
@@ -64,7 +64,7 @@ Key steps in the process:
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - Regression models can give solid insight into what drives transaction value
 - Preprocessing and feature selection made a big difference in performance
